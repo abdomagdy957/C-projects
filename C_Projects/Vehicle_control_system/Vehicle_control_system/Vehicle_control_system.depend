@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697626403 source:f:\nti embedded\c\codeblocks_c\vehicle_control_system\main.c
+	<stdio.h>
+	<stdlib.h>
+
